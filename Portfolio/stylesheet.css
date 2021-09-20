@@ -1,0 +1,50 @@
+html {
+    background: black;
+    color: white;
+}
+
+.page-title {
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+    height: 61px;
+    margin:25px auto;
+}
+
+.hello{
+    float: right;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 600%;
+    padding: 100px 200px 0px 100px;
+    background-color:
+}
+
+.profile {
+    width: 24%;
+    height: auto;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+
+
+}
+
+.bio {
+    background-color: #2d1212;
+    text-align: center;
+    font-size: 110%;
+}
+
+.bio-list {
+
+}
+
+
+
+a {
+    font-family: 'Raleway', sans-serif;
+}

@@ -1,0 +1,34 @@
+This is code that hasnt worked yet but will get it soon.
+
+
+All of this is for a dropdown box for the menu but I made it look
+like the portfolio for now.
+
+/*.navigators {*/
+/*    position: relative;*/
+/*    display: inline-block;*/
+/*}*/
+
+/*.dropdown {*/
+/*    background-color: darkgrey;*/
+/*    color: black;*/
+/*    padding: 5px;*/
+/*    cursor: pointer;*/
+/*}*/
+
+/*.dropdown-content {*/
+/*    display: none;*/
+/*    position: absolute;*/
+/*    background-color: white;*/
+/*    z-index: 1;*/
+/*}*/
+
+/*.dropdown-content a {*/
+/*    color: black;*/
+/*    padding: 3px;*/
+/*    text-decoration: none;*/
+/*    display: block;*/
+/*}*/
+
+/*.dropdown:hover .navigators {*/
+/*    display:block;*/
